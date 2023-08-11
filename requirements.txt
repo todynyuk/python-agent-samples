@@ -1,3 +1,4 @@
 pytest-zebrunner==1.5.7
 selenium==4.8.2
 pytest==7.4.0
+PyYAML==5.3.1
